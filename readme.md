@@ -11,4 +11,8 @@ To help me learn Go. That's basically it.
 
 ## Who should use this?
 
-No one. 
+No one.
+
+## No tests?
+
+I hang my head in shame but since this isn't meant to be used by anyone. I don't see the point in them here.
